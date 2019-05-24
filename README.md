@@ -1,4 +1,4 @@
-# render For CNN For Keypoint Generation
+# Render For CNN For Keypoint Generation
 
 
 Original paper : https://arxiv.org/abs/1505.05641

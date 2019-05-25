@@ -35,11 +35,7 @@ One IMP change :
 ==========
 NOTE 1 : The file samle_viewpoints.m called from run_sampling.m can be modified to sample realistic angles for vehicles in for driving scenarios.
 NOTE 2 : Run all the global files before running the code.
-NOTE 3 : To run the the pipeline for the annotation pipeline, replace the data in file view_distribution/car.txt by 
-65 0 0 1.5
-90 0 0 1.5
-115 0 0 1.5
-This would lead to generation of 3 images per model for annotation purposes. 
+ 
 ==========
 	
 
